@@ -1,0 +1,43 @@
+/* Write your code here. */
+body {
+  display: flex;
+  flex-direction: column;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+li {
+  display: flex;
+  color: #ffffff;
+  padding: 10px 20px;
+  margin: 10px 0px;
+  list-style: none;
+  width: 60%;
+}
+h1 {
+  text-align: center;
+}
+img {
+  height: 20px;
+  margin-right: 20px;
+  align-self: center;
+}
+.box-1 {
+  background-color: #0b69ff;
+  border-radius: 20px;
+}
+.box-2 {
+  background-color: #2dca73;
+  border-radius: 20px;
+}
+.box-3 {
+  background-color: #ffb800;
+  border-radius: 20px;
+}
+.box-4 {
+  background-color: #ff0b37;
+  border-radius: 20px;
+}
